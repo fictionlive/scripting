@@ -1,5 +1,5 @@
 ---
 - name: Alex
-  images: characters/alex.jpeg
+  images: characters/list1/alex.jpeg
 - name: Simon
-  images: characters/simon.jpg
+  images: characters/list1/simon.jpg

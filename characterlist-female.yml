@@ -1,0 +1,5 @@
+---
+- name: Inka
+  images: characters/list1/inka.jpg
+- name: Alyssa
+  images: characters/list1/alyssa.jpg
