@@ -1,0 +1,12 @@
+[
+
+{
+  name: "Alex",
+  images: "characters/alex.jpeg"
+},
+{
+  name: "Simon",
+  images: "characters/simon.jpg"
+}
+
+]
